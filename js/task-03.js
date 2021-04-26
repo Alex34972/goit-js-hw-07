@@ -27,5 +27,3 @@ const addPicturesOptions = (arrImages) => {
   });
 };
 addPicturesOptions(images);
-
-console.log(imageEl);
